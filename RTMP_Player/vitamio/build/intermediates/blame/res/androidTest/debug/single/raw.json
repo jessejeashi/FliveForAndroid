@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Users\\kris\\Documents\\Code\\RtmpPlayer\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libarm.so",
+        "source": "F:\\Users\\kris\\Documents\\Code\\RtmpPlayer\\vitamio\\build\\intermediates\\bundles\\debug\\res\\raw\\libarm.so"
+    },
+    {
+        "merged": "D:\\streaming\\RtmpHlsPlayer-master\\RtmpHlsPlayer-master\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libarm.so",
+        "source": "D:\\streaming\\RtmpHlsPlayer-master\\RtmpHlsPlayer-master\\vitamio\\build\\intermediates\\bundles\\debug\\res\\raw\\libarm.so"
+    },
+    {
+        "merged": "F:\\streaming\\RtmpHlsPlayer-master\\RtmpHlsPlayer-master\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libarm.so",
+        "source": "F:\\streaming\\RtmpHlsPlayer-master\\RtmpHlsPlayer-master\\vitamio\\build\\intermediates\\bundles\\debug\\res\\raw\\libarm.so"
+    }
+]
